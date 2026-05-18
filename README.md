@@ -48,12 +48,11 @@ I'm an AI/ML Developer at **Lyptus Technologies**, Bangalore, working on inferen
 ---
 
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications
 
-| Achievement | Details |
+| Certification | Provider |
 |---|---|
-| 🥇 Best Product Design | IEEE HackTrix Hackathon 2024 |
-| 🌱 Participant | L'Oréal Sustainability Challenge 2024 |
+
 | 📜 Generative AI with LLMs | DeepLearning.AI & AWS |
 | 📜 Supervised ML: Regression | IBM |
 | 📜 Exploratory Data Analysis for ML | IBM |
