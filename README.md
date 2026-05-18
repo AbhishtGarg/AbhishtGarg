@@ -52,14 +52,10 @@ I'm an AI/ML Developer at **Lyptus Technologies**, Bangalore, working on inferen
 
 | Certification | Provider |
 |---|---|
-
 | 📜 Generative AI with LLMs | DeepLearning.AI & AWS |
 | 📜 Supervised ML: Regression | IBM |
 | 📜 Exploratory Data Analysis for ML | IBM |
 | 📜 AWS Academy Cloud Foundations | AWS Academy |
-
----
-
 
 
 <div align="center">
